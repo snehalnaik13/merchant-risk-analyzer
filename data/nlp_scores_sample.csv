@@ -1,0 +1,11 @@
+MerchantID,Description,nlp_risk_score
+MID000001,Grocery and food delivery service,0.0
+MID000002,Healthcare and telemedicine billing,0.0
+MID000003,Fantasy sports and e-gaming platform,0.05
+MID000004,Digital marketing services payment,0.0
+MID000005,SaaS subscription billing platform,0.0
+MID000006,Bitcoin and altcoin wallet service,0.15
+MID000007,Esports tournament and betting platform,0.3
+MID000008,Game subscription and pass service,0.0
+MID000009,Fantasy sports and e-gaming platform,0.05
+MID000010,Professional services invoicing,0.0
